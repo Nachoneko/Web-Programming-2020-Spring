@@ -1,0 +1,18 @@
+
+.main{
+
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 40px;
+	border-top: solid #687291 1px;
+	width: 100px;
+	height: 100px;
+	background-color: #dfe1e7;
+	margin: 6px auto;
+}
+#box6{
+	background-color: #687291;
+	border: solid black 4px;
+	padding-top: 24px;
+	height: 76px;
+}
